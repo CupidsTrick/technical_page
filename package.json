@@ -11,6 +11,6 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "",
+  "author": "Miguel Bento",
   "license": "ISC"
 }
